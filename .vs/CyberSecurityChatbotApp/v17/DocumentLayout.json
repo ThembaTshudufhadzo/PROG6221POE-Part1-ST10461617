@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityChatbotApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3037B4-AE98-44CE-8A1B-13D43F6D3365}|CyberSecurityChatbotApp.csproj|c:\\users\\lab_services_student\\desktop\\cybersecuritychatbotapp\\displaymediaart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3037B4-AE98-44CE-8A1B-13D43F6D3365}|CyberSecurityChatbotApp.csproj|solutionrelative:displaymediaart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3037B4-AE98-44CE-8A1B-13D43F6D3365}|CyberSecurityChatbotApp.csproj|c:\\users\\lab_services_student\\desktop\\cybersecuritychatbotapp\\handlinguserinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3037B4-AE98-44CE-8A1B-13D43F6D3365}|CyberSecurityChatbotApp.csproj|solutionrelative:handlinguserinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3037B4-AE98-44CE-8A1B-13D43F6D3365}|CyberSecurityChatbotApp.csproj|c:\\users\\lab_services_student\\desktop\\cybersecuritychatbotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3037B4-AE98-44CE-8A1B-13D43F6D3365}|CyberSecurityChatbotApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3037B4-AE98-44CE-8A1B-13D43F6D3365}|CyberSecurityChatbotApp.csproj|c:\\users\\lab_services_student\\desktop\\cybersecuritychatbotapp\\playaudiosound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3037B4-AE98-44CE-8A1B-13D43F6D3365}|CyberSecurityChatbotApp.csproj|solutionrelative:playaudiosound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandlingUserInputs.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityChatbotApp\\HandlingUserInputs.cs",
+              "RelativeDocumentMoniker": "HandlingUserInputs.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityChatbotApp\\HandlingUserInputs.cs",
+              "RelativeToolTip": "HandlingUserInputs.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAiwIIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:43:43.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayMediaArt.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityChatbotApp\\DisplayMediaArt.cs",
+              "RelativeDocumentMoniker": "DisplayMediaArt.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityChatbotApp\\DisplayMediaArt.cs",
+              "RelativeToolTip": "DisplayMediaArt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:26:13.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayAudioSound.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityChatbotApp\\PlayAudioSound.cs",
+              "RelativeDocumentMoniker": "PlayAudioSound.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityChatbotApp\\PlayAudioSound.cs",
+              "RelativeToolTip": "PlayAudioSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:24:24.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityChatbotApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityChatbotApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:00:00.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
